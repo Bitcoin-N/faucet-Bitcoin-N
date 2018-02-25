@@ -1,0 +1,226 @@
+# Webalizer V2.23-08 Incremental Data - 02/23/2018 04:06:03
+2018 2 23 4 6 3
+612 527 15 14 8 10 356665465 194 20 0 0 0
+1 1 145 18 23
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+459 401 248815655 6 150 7 0 0
+89 80 66597886 1 25 2 0 0
+31 22 18532981 3 8 4 0 0
+11 7 9075080 2 2 2 0 0
+21 17 13643662 5 9 5 0 0
+1 0 201 1 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+4 2 4518359 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+13 10 9050251 7 0 0
+3 2 37093 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+6 5 4556518 1 0 0
+0 0 0 0 0 0
+85 78 62079527 24 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 4518361 1 0 0
+13 9 9169437 3 0 0
+0 0 0 0 0 0
+145 117 8591769 53 0 0
+144 135 135829340 40 0 0
+116 105 77090771 38 0 0
+39 34 22801820 13 0 0
+22 19 13612396 7 0 0
+17 9 4809622 5 0 0
+1 0 201 0 0 0
+6
+0
+0
+527
+0
+0
+0
+0
+0
+6
+0
+0
+23
+0
+37
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+0
+0
+3
+0
+# -urls- 
+/images/abp.jpg
+1 3 0 151128 0 0 0 0
+/admin.php
+0 17 0 27723 1 0 0 0
+/images/favicon.ico
+0 19 0 636568 0 0 0 0
+/js/bootstrap.min.js
+0 29 0 921700 0 0 0 0
+/request.php
+0 1 0 31 0 0 0 0
+/css/style.css
+0 134 0 336480 0 0 0 0
+/css/bootstrap.min.css
+0 29 0 3031500 0 0 0 0
+/images/BitcoinN-logo-11-oro.png
+1 93 0 351243067 0 0 0 0
+/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18028 0 0 0 0
+/
+0 134 0 282836 19 6 0 0
+/js/advertisement.js
+0 101 0 2093 0 0 0 0
+/account.php
+0 1 0 1548 0 0 0 0
+/verify.php
+0 4 0 6017 0 0 0 0
+/adblocker.php
+0 4 0 3244 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+87.216.144.150
+0 9 7 9074678 2 1519141450 0 0
+/
+87.216.144.8
+0 89 80 66597886 2 1519041468 0 0
+/
+181.49.93.223
+0 11 8 4560616 1 1518977559 0 0
+/
+212.230.136.40
+0 13 11 9172899 2 1519142210 0 0
+/adblocker.php
+87.218.46.254
+0 5 5 4556318 1 1519327259 0 0
+/
+87.218.45.39
+0 9 7 9074678 2 1519247662 0 0
+/
+213.143.46.45
+0 6 4 4555253 2 1519273514 0 0
+/
+95.18.18.15
+0 421 374 230521002 1 1518989102 0 0
+/
+149.154.167.167
+0 1 1 2397 1 1519270715 0 0
+/
+181.49.95.31
+0 8 7 4529493 1 1519270814 0 0
+/
+109.205.143.191
+0 12 9 4598000 2 1518991854 0 0
+/
+188.85.134.7
+0 13 12 4807227 1 1519167486 0 0
+/adblocker.php
+54.165.59.7
+0 4 0 804 0 0 0 0
+-
+54.85.182.120
+0 3 1 2799 1 1518986894 0 0
+/
+81.203.185.115
+0 8 7 4611415 1 1518983206 0 0
+/adblocker.php
+# End Of Table - sites (monthly)
+# -sites- (daily)
+54.165.59.7
+0 1 0 201 0 0 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://faucet.bitcoinn.biz/verify.php
+1 16
+http://faucet.bitcoinn.biz/adblocker.php
+1 12
+http://faucet.bitcoinn.biz/admin.php
+1 55
+http://faucet.bitcoinn.biz/index.php
+1 44
+http://faucet.bitcoinn.biz/
+1 362
+- (Direct Request)
+0 119
+http://faucet.bitcoinn.biz/account.php
+1 3
+http://faucet.bitcoinn.biz/css/bootstrap.min.css
+1 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 6.0.1; LEX720 Build/WAXCNFN5902304261S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.1
+0 27
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 86
+ia_archiver
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:58.0) Gecko/20100101 Firefox/58.0
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 457
+WhatsApp/2.18.46 A
+0 2
+TelegramBot (like TwitterBot)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Sa
+0 4
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
